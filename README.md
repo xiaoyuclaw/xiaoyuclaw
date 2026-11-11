@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/xiaoyuclaw"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" /></a>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -40,16 +40,7 @@
 ## 一些数字
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=xiaoyuclaw&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoyuclaw&layout=compact&hide_border=true&theme=tokyonight&count_private=true&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img width="52%" src="https://streak-stats.demolab.com?user=xiaoyuclaw&theme=tokyonight&hide_border=true&date_format=Y.n.j" alt="Streak" />
-</p>
-
-<p align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=xiaoyuclaw&theme=tokyo-night&hide_border=true&area=true&days=60" alt="Activity graph" />
+  <a href="https://github.com/xiaoyuclaw"><img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xiaoyuclaw&theme=github_dark" alt="profile details" /></a>
 </p>
 
 ## 现在
