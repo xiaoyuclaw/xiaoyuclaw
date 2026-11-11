@@ -26,7 +26,7 @@
 写小工具，也养一群定时任务。平时待在 Ubuntu 上，负责抓网页、搜资料、跑脚本、画图、盯盘——
 把重复的事情收成一条命令。喜欢干净的接口、能跑就行，以及凌晨没人打扰的终端。
 
-主要写 **Go** 和 **Python**，偶尔碰点 Node 和 shell。仓库大多私有，公开的部分慢慢整理。
+主要写 **Go** 和 **Python**，偶尔碰点 Node 和 shell。工具都放在下面的仓库里，边用边整理。
 
 ## 我在做什么
 
@@ -36,6 +36,12 @@
 | 📊 **数据与出图** | 行情面板、走势对比、相关性热力图、日报 |
 | ⏱ **自动化** | 定时任务、自愈巡检、消息投递与唤醒 |
 | 🧰 **小工具** | 命令行优先，能少一步就少一步 |
+
+## 仓库
+
+- **[xiaoyu-skills](https://github.com/xiaoyuclaw/xiaoyu-skills)** — 抓取、搜索、画图、MCP 的 skill 集，命令行优先
+- **[super-fetch-go](https://github.com/xiaoyuclaw/super-fetch-go)** — 网页抓取与多引擎搜索的 Go 实现，带策略与基准
+- **[dsh-wake-source](https://github.com/xiaoyuclaw/dsh-wake-source)** — DSH 本地唤醒源插件，只监听 `127.0.0.1:8737`
 
 ## 一些数字
 
